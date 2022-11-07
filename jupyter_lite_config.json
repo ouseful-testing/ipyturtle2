@@ -1,0 +1,7 @@
+{
+    "XeusPythonEnv": {
+        "packages": [
+            "."
+        ]
+    }
+}
