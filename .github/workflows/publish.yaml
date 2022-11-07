@@ -2,7 +2,7 @@ name: Build and Publish jupyterlite page to GitHub Pages
 on:
   push:
     branches:
-    - main  # specify 'master' if that is your main branch
+    - master
   pull_request:
     branches:
     - '*'
